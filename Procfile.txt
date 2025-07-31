@@ -1,0 +1,3 @@
+web: java -cp build/libs/bite-api-0.0.1-SNAPSHOT.jar com.example.bite_api.BiteApplication
+
+
